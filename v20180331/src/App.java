@@ -2,8 +2,8 @@ public class App {
 
     public static void main(String[] asff) {
 
-//        Lhp lhp = new Lhp();
-//        Lhp lhp2 = new Lhp();
+      Lhp lhp = new Lhp();
+        Lhp lhp2 = new Lhp();
 //
 //        lhp.print();
 //        lhp.result();
