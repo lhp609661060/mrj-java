@@ -1,3 +1,7 @@
+# mrj-java
+用于java 的学习生活
+
+
 ### 练习内容
 
 1. 编写简单holle word 应用
